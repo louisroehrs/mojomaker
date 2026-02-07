@@ -1,0 +1,11 @@
+
+
+App:
+
+A web app that asks people questions to discover things they do not know about themselves that if they knew them, they could work on to improve their odds in dating, interacting online and in person.  Let's call it mojomaker.
+
+User story:
+
+The app invites the user to answer a few questions about themselves to discover traits, cnaracteristics, behaviours, inner thoughts and feelings that could be limiting their chances at making connections.  The system will ask questions, read the user's answers and decide how to proceed to help the user uncover some hidden unknowns, negativities, and obstacles  and help them understand and reframe and reorient themselves so that they can improve thoughts, beliefs, and feelings towards these hidden thoughts.
+
+
